@@ -17,7 +17,7 @@ aircrafts as per their hyperdrive rating.
 
 ## Tech
 
-Dillinger uses a number of open source projects to work properly:
+AltApi uses a number of open source projects to work properly:
 
 - [FastApi] - FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints.
 - [Scrapy] - Scrapy is a fast high-level web crawling and web scraping framework, used to crawl websites and extract structured data from their pages.
