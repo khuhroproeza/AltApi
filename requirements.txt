@@ -1,0 +1,8 @@
+graphene_pydantic
+fastapi
+jsonschema
+uvicorn
+pyyaml
+natsort
+requests
+Scrapy
